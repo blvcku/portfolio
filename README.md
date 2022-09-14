@@ -1,4 +1,4 @@
-# OLMAX
+# Portfolio
 My personal portfolio website
 
 [Live website](https://orzechowski.netlify.app)
