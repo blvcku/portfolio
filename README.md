@@ -4,7 +4,7 @@ My personal portfolio website
 [Live website](https://orzechowski.netlify.app)
 
 On the site we can find: 
-* Basic informations about my self
+* Basic informations about me
 * Projects that I created recently 
 * Contact form
 
